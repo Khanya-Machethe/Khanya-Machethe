@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Full-width Matrix Rain GIF Header -->
-<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="100%" alt="Matrix Rain Animation"/>
+<!-- Working Full-width Coding GIF Header -->
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="Coding Animation"/>
 
-<h1 style="color:#00FF00;">Khanya Machethe</h1>
-<h3 style="color:#00FF00;">🚀 Aspiring Solutions Architect | ☁️ Cloud & 🤖 AI Enthusiast | 🌱 Lifelong Learner</h3>
+<h1>Hi, I’m Khanya Machethe 👋</h1>
+<h3>🚀 Aspiring Solutions Architect | ☁️ Cloud & 🤖 AI Enthusiast | 🌱 Lifelong Learner</h3>
 
-<!-- Glowing Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&animation=glow"/>
-  <img src="https://img.shields.io/badge/AI-Cloud%20Native-6366F1?style=for-the-badge&logo=openai&logoColor=white&animation=glow"/>
-  <img src="https://img.shields.io/badge/Focus-Secure%20%26%20Scalable-0EA5E9?style=for-the-badge&animation=glow"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Cloud%20Native-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Secure%20%26%20Scalable-0EA5E9?style=for-the-badge"/>
 </p>
 
 </div>
@@ -19,13 +18,12 @@
 
 ## 👋 About Me
 
-<p style="color:#00FF00; background-color:#000000; padding:10px; border-radius:5px;">
-I’m a technology-driven problem solver with expertise in <b>cloud computing, systems design, and cybersecurity</b>, fueled by a growing passion for <b>Artificial Intelligence</b>.  
-I design <b>scalable, secure, intelligent cloud solutions</b> that don’t just run — they <b>think, adapt, and evolve</b>.
-</p>
+I’m a technology-driven problem solver with a strong foundation in **cloud computing, systems design, and cybersecurity**, and a growing passion for **Artificial Intelligence**.  
+
+I design **scalable, secure, intelligent cloud solutions** that don’t just run — they sometimes even make coffee (well… maybe not yet ☕).  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600" alt="Digital Cyber Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD6tnkH5N6wXl5C/giphy.gif" width="400" alt="Thinking AI"/>
 </div>
 
 ---
@@ -38,13 +36,13 @@ Hands-on experience deploying and securing **AWS cloud solutions**, with multi-c
 - AWS Certified Cloud Practitioner – Foundational  
 - AWS Certified Solutions Architect – Associate  
 
-> These aren’t just badges; they represent real-world skills applied in live projects.
+> Real skills, not just badges. (But badges are nice too 😎)
 
 ---
 
 ## 🤖 AI & Intelligent Systems
 
-AI is the **core of modern architecture**. My focus areas:  
+AI is the **brains of the operation**. My focus areas:  
 
 - AI-powered cloud-native apps  
 - Retrieval-Augmented Generation (RAG)  
@@ -52,22 +50,28 @@ AI is the **core of modern architecture**. My focus areas:
 - Automation & decision intelligence  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYy1cuRQeXFRqFW/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="400" alt="AI Brain"/>
 </div>
 
-> **Cloud gives systems reach. AI gives them understanding.**
+> **Cloud gives systems reach. AI gives them understanding. And coffee gives me energy. ☕**
 
 ---
 
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&width=600&lines=AWS+%7C+Python+%7C+Git+%26+GitHub+%7C+AI+%7C+Cloud+Security+%7C+Lambda+%7C+Docker+%7C+RAG+%7C+Elastic+Beanstalk" alt="Skills Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&width=600&lines=AWS+%7C+Python+%7C+Git+%26+GitHub+%7C+AI+%7C+Cloud+Security+%7C+Lambda+%7C+Docker+%7C+RAG+%7C+Elastic+Beanstalk" alt="Skills Typing Animation"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
+
+- **🤖 Smart BankerBot** — AI chatbot with Amazon Lex & Lambda  
+- **🧠 Smart Conversations (RAG + Bedrock)** — Context-aware AI chatbot  
+- **🗄️ Cloud Database Solutions** — Scalable end-to-end cloud database  
+- **🌐 Multi-Cloud Data Transfer (AWS & GCP)** — Secure cross-cloud data transfer  
+- **🐳 AWS Elastic Beanstalk + Docker** — Auto-scaling containerized apps  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&width=600&lines=Smart+BankerBot+%7C+Smart+Conversations+RAG+%7C+Cloud+Database+Solutions+%7C+Multi-Cloud+Transfer+%7C+Elastic+Beanstalk+Docker" alt="Projects Scrolling Animation"/>
@@ -77,13 +81,11 @@ AI is the **core of modern architecture**. My focus areas:
 
 ## 🎯 Career Vision
 
-<p style="color:#00FF00; background-color:#000000; padding:10px; border-radius:5px;">
-Become a <b>world-class Solutions Architect</b> who:  
+Become a **world-class Solutions Architect** who:  
 - Designs secure, scalable, resilient systems  
-- Treats <b>AI as a first-class component</b>  
+- Treats **AI as a first-class component**  
 - Anticipates failures & security risks  
 - Turns complex tech into business value  
-</p>
 
 ---
 
@@ -91,35 +93,21 @@ Become a <b>world-class Solutions Architect</b> who:
 - Advanced AWS architecture patterns  
 - AI system design at scale  
 - Production-grade security  
-- Cloud systems that are <i>intelligent by default</i>  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhanyaMachethe&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanyaMachethe&layout=compact&theme=dark&hide_border=true&title_color=00FF00&text_color=00FF00" alt="Top Languages"/>
-</p>
+- Cloud systems that are *intelligent by default*  
 
 ---
 
 ## 🤝 Let’s Connect
-
 💬 Open to:  
 - Cloud & AI collaboration  
 - Architecture discussions  
 - Learning opportunities  
 
-📫 Let’s build the future — intelligently.
-
----
+📫 Let’s build the future — intelligently.  
 
 <div align="center">
 
-<!-- Full-width Matrix Rain Footer -->
-<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="100%" alt="Matrix Footer Animation"/>
-
-⭐ *If my work inspires you, star a repo or reach out!*  
+<!-- Working Full-width Coding GIF Footer -->
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="100%" alt="Coding Footer"/>
 
 </div>
